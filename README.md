@@ -1,33 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:0ea5e9&height=220&section=header&text=RuralFarm%20AI&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Smart%20Farming%20Solutions%20for%20Rural%20Farmers&descAlignY=58&descSize=20" width="100%" alt="RuralFarm AI header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:052e16,50:15803d,100:0891b2&height=260&section=header&text=RuralFarm%20AI&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&stroke=4ade80&strokeWidth=1&desc=🌱%20Smart%20Farming%20for%20Rural%20Farmers&descSize=22&descAlignY=65" width="100%" alt="RuralFarm AI" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=16A34A&center=true&vCenter=true&width=700&lines=Know+what+to+plant.;Know+when+to+plant.;Detect+crop+disease+from+a+photo.;Find+buyers.+Add+value.+Earn+more." alt="Typing animation" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=700&color=22C55E&center=true&vCenter=true&repeat=true&width=760&height=40&lines=🌾+What+to+plant+→+AI+tells+you;⛅+When+to+plant+→+7-day+forecast;🔬+Sick+crop?+→+Snap+a+photo;💰+Where+to+sell+→+Find+buyers;🏭+Add+value+→+Process+%26+package" alt="Typing animation" />
 
-<br/>
+<br/><br/>
 
-![Hackathon](https://img.shields.io/badge/Hackathon-Sol%20Plaatje%20University-0ea5e9?style=for-the-badge)
-![Hosted by](https://img.shields.io/badge/Hosted%20by-MIH%20Seta%20(MICT%20SETA)-16a34a?style=for-the-badge)
-![Year](https://img.shields.io/badge/Year-2026-f59e0b?style=for-the-badge)
-
-![Status](https://img.shields.io/badge/Status-Prototype%20Complete-brightgreen?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+<img src="https://img.shields.io/badge/🏆_Sol_Plaatje_University_Hackathon-0f172a?style=for-the-badge&labelColor=15803d" />
+<img src="https://img.shields.io/badge/Hosted_by-MIH_Seta_(MICT_SETA)-0f172a?style=for-the-badge&labelColor=0891b2" />
+<img src="https://img.shields.io/badge/2026-0f172a?style=for-the-badge&labelColor=f59e0b" />
 
 <br/>
 
-**🌱 AI + Agriculture + Market Access + Agro-Processing, in one app that runs on any phone.**
+<img src="https://img.shields.io/badge/Status-Prototype_Complete-22c55e?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Architecture-Microservices-8b5cf6?style=flat-square" />
+<img src="https://img.shields.io/badge/License-MIT-3b82f6?style=flat-square" />
 
-[📖 About](#-about-the-project) •
-[🎯 Problem](#-the-problem-we-solve) •
-[🚀 Features](#-features) •
-[🏗️ Architecture](#%EF%B8%8F-architecture) •
-[📦 Quick Start](#-quick-start) •
-[🔮 Roadmap](#-roadmap)
+<br/><br/>
+
+<a href="#-about-the-project"><b>📖 About</b></a> &nbsp;·&nbsp;
+<a href="#-the-problem-we-solve"><b>🎯 Problem</b></a> &nbsp;·&nbsp;
+<a href="#-features"><b>🚀 Features</b></a> &nbsp;·&nbsp;
+<a href="#%EF%B8%8F-architecture"><b>🏗️ Architecture</b></a> &nbsp;·&nbsp;
+<a href="#-quick-start"><b>📦 Quick Start</b></a> &nbsp;·&nbsp;
+<a href="#-roadmap"><b>🔮 Roadmap</b></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:15803d,100:0891b2&height=3&section=header" width="100%" alt="divider" />
 
 </div>
 
@@ -41,7 +42,7 @@
 |:---:|:---:|:---:|:---:|
 | to **plant** | to **plant** | to **manage crops** | and how to **sell produce** |
 
-It brings **AI + Agriculture + Market Access + Agro-Processing** together in a practical, mobile-first platform.
+It brings **AI + Agriculture + Market Access + Agro-Processing** together in a practical, mobile-first platform that a rural farmer can use on any phone.
 
 > 💡 *The knowledge of an agricultural expert, in every farmer's pocket.*
 
@@ -304,47 +305,4 @@ timeline
 - [ ] Real ML models for disease detection (PlantVillage dataset)
 - [ ] Real weather API (OpenWeatherMap)
 - [ ] User authentication for farmers
-- [ ] React Native / Flutter mobile app
-- [ ] SMS / USSD support for feature phones
-- [ ] Multi-language support (English, Swahili, Hausa, and more)
-- [ ] Payment integration (M-Pesa, mobile money)
-- [ ] IoT sensor integration
-
----
-
-## 👥 Team
-
-<div align="center">
-
-<a href="https://github.com/LuthandoCandlovu">
-  <img src="https://github.com/LuthandoCandlovu.png" width="90" style="border-radius:50%" alt="Luthando Candlovu" />
-</a>
-
-**Luthando Candlovu**
-*Developer*
-
-</div>
-
----
-
-## 🙏 Acknowledgements
-
-- 🎓 **Sol Plaatje University** for hosting the hackathon
-- 🏛️ **MIH Seta (MICT SETA)** for sponsoring and supporting the event
-- 🤝 All mentors, judges and fellow participants
-
----
-
-## 📄 License
-
-Released under the **MIT License**.
-
-<div align="center">
-
-<br/>
-
-**Built with ❤️ for farmers everywhere 🌱**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:16a34a&height=120&section=footer" width="100%" alt="footer" />
-
-</div>
+- [ ] React Native /
